@@ -1,0 +1,47 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2016-05-27 03:53+0530\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=CHARSET\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: activity/activity.info:2 /home/iamutkarsh/Documents/PYGAME/stick/main.py:72
+#: /home/iamutkarsh/Documents/PYGAME/stick/welcomescreen.py:68
+msgid "Stick Hero"
+msgstr ""
+
+#: /home/iamutkarsh/Documents/PYGAME/stick/scorescreen.py:156
+msgid "GAME OVER!"
+msgstr ""
+
+#: /home/iamutkarsh/Documents/PYGAME/stick/main.py:461
+msgid "Perfect!!!"
+msgstr ""
+
+#: /home/iamutkarsh/Documents/PYGAME/stick/main.py:464
+msgid "+1"
+msgstr ""
+
+#: /home/iamutkarsh/Documents/PYGAME/stick/welcomescreen.py:47
+msgid "error with sound"
+msgstr ""
+
+#: /home/iamutkarsh/Documents/PYGAME/stick/welcomescreen.py:214
+msgid "STICK"
+msgstr ""
+
+#: /home/iamutkarsh/Documents/PYGAME/stick/welcomescreen.py:217
+msgid "HERO"
+msgstr ""
